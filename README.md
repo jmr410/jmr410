@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">I'm a Technical Writer from Detroit Michigan.</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Jeremy! I'm a Technical Writer from Detroit, MI.
 
 <h2>👨‍💻 Project Samples:</h2>
 
